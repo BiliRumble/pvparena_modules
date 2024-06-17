@@ -45,7 +45,7 @@
     </dependencyManagement>
 
     <modules>
-        <module>m_AfterMatch</module>
+        <!--<module>m_AfterMatch</module>
         <module>m_Announcements</module>
         <module>m_ArenaBoards</module>
         <module>m_ArenaMaps</module>
@@ -60,10 +60,10 @@
         <module>m_BetterGears</module>
         <module>m_BetterKillstreaks</module>
         <module>m_BlockDissolve</module>
-        <module>m_BlockRestore</module>
+        <module>m_BlockRestore</module>-->
         <module>m_ChestFiller</module>
         <module>m_EventActions</module>
-        <module>m_Factions</module>
+        <!--<module>m_Factions</module>
         <module>m_FixInventoryLoss</module>
         <module>m_FlySpectate</module>
         <module>m_Handycap</module>
@@ -81,18 +81,18 @@
         <module>m_SpecialJoin</module>
         <module>m_Spectate</module>
         <module>m_Squads</module>
-<!--        <module>m_Skins</module>-->
+        <module>m_Skins</module>-
         <module>m_StartFreeze</module>
         <module>m_TeamSizeRestrict</module>
         <module>m_TempPerms</module>
         <module>m_Titles</module>
-        <module>m_Turrets</module>
+        <module>m_Turrets</module>--
         <module>m_Vault</module>
         <!-- require m_Vault module to compile -->
-        <module>m_Duel</module>
+        <!--<module>m_Duel</module>
         <module>m_Walls</module>
-        <module>m_WorldEdit</module>
-        <module>m_WorldGuard</module>
+        <module>m_WorldEdit</module>-->
+        <!--<module>m_WorldGuard</module>-->
         <module>dist</module>
     </modules>
 
